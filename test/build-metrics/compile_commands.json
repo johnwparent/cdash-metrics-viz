@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/john.parent/dev/cdash-metrics-upload/proj/build-metrics",
+  "command": "/usr/bin/c++ -O3 -DNDEBUG -arch arm64 -o CMakeFiles/main.dir/main.cxx.o -c /Users/john.parent/dev/cdash-metrics-upload/proj/main.cxx",
+  "file": "/Users/john.parent/dev/cdash-metrics-upload/proj/main.cxx",
+  "output": "/Users/john.parent/dev/cdash-metrics-upload/proj/build-metrics/CMakeFiles/main.dir/main.cxx.o"
+}
+]

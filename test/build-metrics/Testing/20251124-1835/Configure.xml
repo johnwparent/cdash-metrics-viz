@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Metrics-test-uploads-gha---"
+	BuildStamp="20251124-1835-Experimental"
+	Name="CI----"
+	Generator="ctest-4.1.1"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="macOS"
+	Hostname="khq-7246"
+	OSRelease="14.5"
+	OSVersion="23F79"
+	OSPlatform="arm64"
+	Is64Bits="1"
+	VendorString="Apple"
+	VendorID="Apple"
+	FamilyID="0"
+	ModelID="0"
+	ModelName="Apple M1"
+	ProcessorCacheSize="131072"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="22528"
+	TotalPhysicalMemory="16384"
+	LogicalProcessorsPerPhysical="8"
+	ProcessorClockFrequency="0"
+	>
+	<Configure>
+		<StartDateTime>Nov 24 13:35 EST</StartDateTime>
+		<StartConfigureTime>1764009303</StartConfigureTime>
+		<ConfigureCommand>"/opt/homebrew/bin/cmake" "-DCMAKE_EXPORT_COMPILE_COMMANDS=ON" "-DCMAKE_BUILD_TYPE:STRING=Release" "-GNinja" "-S/Users/john.parent/dev/cdash-metrics-upload/proj" "-B/Users/john.parent/dev/cdash-metrics-upload/proj/build-metrics"</ConfigureCommand>
+		<Log>-- The CXX compiler identification is AppleClang 15.0.0.15000309
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done (0.7s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/john.parent/dev/cdash-metrics-upload/proj/build-metrics
+</Log>
+		<ConfigureStatus>0</ConfigureStatus>
+		<EndDateTime>Nov 24 13:35 EST</EndDateTime>
+		<EndConfigureTime>1764009304</EndConfigureTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Configure>
+</Site>

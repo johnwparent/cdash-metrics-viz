@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Metrics-test-uploads-gha---"
+	BuildStamp="20251124-1835-Experimental"
+	Name="CI----"
+	Generator="ctest-4.1.1"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="macOS"
+	Hostname="khq-7246"
+	OSRelease="14.5"
+	OSVersion="23F79"
+	OSPlatform="arm64"
+	Is64Bits="1"
+	VendorString="Apple"
+	VendorID="Apple"
+	FamilyID="0"
+	ModelID="0"
+	ModelName="Apple M1"
+	ProcessorCacheSize="131072"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="22528"
+	TotalPhysicalMemory="16384"
+	LogicalProcessorsPerPhysical="8"
+	ProcessorClockFrequency="0"
+	>
+	<Build>
+		<StartDateTime>Nov 24 13:35 EST</StartDateTime>
+		<StartBuildTime>1764009304</StartBuildTime>
+		<BuildCommand>/opt/homebrew/bin/cmake --build . --config "Release"</BuildCommand>
+		<Log Encoding="base64" Compression="bin/gzip"/>
+		<EndDateTime>Nov 24 13:35 EST</EndDateTime>
+		<EndBuildTime>1764009305</EndBuildTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Build>
+</Site>

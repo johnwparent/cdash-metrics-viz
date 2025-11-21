@@ -1,0 +1,10 @@
+Upload files:
+0	Configure.xml
+1	Build.xml
+2	Upload.xml
+3	Done.xml
+	Upload file: /Users/john.parent/dev/cdash-metrics-upload/proj/build-metrics/Testing/20251124-1835/Configure.xml to CI----___Metrics-test-uploads-gha---___20251124-1835-Experimental___XML___Configure.xml
+	Upload file: /Users/john.parent/dev/cdash-metrics-upload/proj/build-metrics/Testing/20251124-1835/Build.xml to CI----___Metrics-test-uploads-gha---___20251124-1835-Experimental___XML___Build.xml
+	Upload file: /Users/john.parent/dev/cdash-metrics-upload/proj/build-metrics/Testing/20251124-1835/Upload.xml to CI----___Metrics-test-uploads-gha---___20251124-1835-Experimental___XML___Upload.xml
+	Upload file: /Users/john.parent/dev/cdash-metrics-upload/proj/build-metrics/Testing/20251124-1835/Done.xml to CI----___Metrics-test-uploads-gha---___20251124-1835-Experimental___XML___Done.xml
+   Submission successful
